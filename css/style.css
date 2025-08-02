@@ -8,7 +8,7 @@ body{
     display: flex;
     align-items: center;
     justify-self: center;
-    background: #8f86ea
+    background: #8f86ea;
 }
 .calculator{
     background: #f8f8f8;
@@ -23,7 +23,7 @@ body{
     height: 90%;
 }
 .display{
-    background: #e8f3f3;;
+    background: #e8f3f3;
     border-radius: 20px;
     padding: 2rem ;
     font-size: 2rem;
